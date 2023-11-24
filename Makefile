@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -I include -O3
+CFLAGS = -I include -O3 --std=c++17
 
 OUT_OBJ = app
 
